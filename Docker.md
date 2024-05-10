@@ -2,4 +2,4 @@
 
 В этом файле будут описаны главы по работе с docker. Этот файл нацелен на создание конспекта по работе с docker. Его цель быть открытой шапаргалкой с возможностью быстрой навигации по интересующим разделам работы с docker.
 
-[Base work with docker images.](../tree/Docker/Base_images_work.md)
+[Base work with docker images.](../blob/Docker/Base_images_work.md)

@@ -4,6 +4,12 @@
 
 # Получить список всех конейнеров (в том числе остоновленных) `docker ps -a`
 
+# Удалить остановленный контейнер `docker rm <container id>`
+
+# Остановить работающий контейнер `docker stop <container_id | container_name>`
+
+# Удалить один image `docker rmi <image>`
+
 # Полная очистка images из docker.
 
 ## example: `docker system prune -a --volumes` 

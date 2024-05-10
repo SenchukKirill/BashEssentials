@@ -10,7 +10,7 @@
 
 # Типы сетей в docker: 
 
-## Bridge, Host, None. 
+## Bridge, Host, None, Macvlan, ipvlan. 
 
 ### Brigde - тип сети использующаяся в Docker по умолчаниюю при создании контейнера. Нет возможности использовать DNS - Domain Name System. В ней можно обращаться к контейнерам в этой же сети (Bridge) по ipV4-address.
 
